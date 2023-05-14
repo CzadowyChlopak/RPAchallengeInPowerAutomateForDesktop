@@ -1,4 +1,4 @@
-# RPAchallengeInPowerAutomateForDesktop
+# RPA challenge in Power Automate For Desktop
 
 Solution for the RPA challenge created in MS Power Automate for Desktop.
 I am sharing only the screenshots of the flow created for the attended solution.
